@@ -1,0 +1,10 @@
+# Compiled source #
+###################
+*.class
+
+# OS generate files #
+#####################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
